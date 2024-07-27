@@ -1,1 +1,1 @@
-# zerodha_landing_page built using html and css only.
+# zerodha_landing_page built using html and css only!
